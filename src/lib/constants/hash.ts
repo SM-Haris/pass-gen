@@ -1,0 +1,18 @@
+export const HASH_TYPES = [
+    "HMACSHA512",
+  "MD5",
+  "SHA1",
+  "SHA256",
+  "SHA512",
+  "SHA224",
+  "SHA384",
+  "SHA3",
+  "RIPEMD160",
+  "HMACMD5",
+  "HMACSHA1",
+  "HMACSHA224",
+  "HMACSHA256",
+  "HMACSHA384",
+  "HMACSHA3",
+  "HMACRIPEMD160",
+];
